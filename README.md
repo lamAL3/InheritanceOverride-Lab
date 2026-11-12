@@ -4,3 +4,6 @@ This code takes input from user to calculate their monthly salary based on if th
 
 ## Author
 Alex Lam
+## Code Review
+- **Reviewed by: Darren Manolack 
+- **Status:** Checked code. Inheritance (`extends`), Scanner input, and calorie calculations are all correct and working!
